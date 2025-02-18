@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there 👋 여기서 저 조정우에 대한 간단한 소개를 하겠습니다.
 
+<h3>소개 글</h3> 
+
+> 안녕하세요 저는 99년생 신입 개발자가 되고싶은 조정우 입니다. <br />
+> 저는 고등학생때 부터 웹 프로그래밍 언어인 HTML,CSS,PHP,JavaScript를 사용해서 웹 사이트를 만들어왔으며 <br />
+> 그 이후 4년제 대학교에서 계속 프로그래밍을 공부했습니다.<br />
+> 하지만 아직 일을 해본 경력이 없어서 미숙 할 수있습니다.
 <!--
 **dhdhfkk1119/dhdhfkk1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
