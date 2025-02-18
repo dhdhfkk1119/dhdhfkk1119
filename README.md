@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-### 🏆 PHP_WEB 
+### 🛒 PHP_WEB 
 📅 **2024.10 ~ 2025.01 (1인 개인 프로젝트)**  
 **개인 개발의 역량을 늘리기 위해 쇼핑몰 사이트 구축**  
 - 기존의 쇼핑몰에서 할 수있는 기능을 최대한 구현   
@@ -53,60 +53,53 @@
 - 받아온 값을 바로 처리하기 위한 Ajax를 사용
 - 방문/조회 수 추적, 좋아요 등의 커뮤니티 기능 개발  
 
-🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/PHP_web.git) 
+🔗 [[프로젝트 링크](https://github.com/dhdhfkk1119/PHP_web.git)]
 
 🛠 **사용 기술:**  
 `PHP` `Mysql` `Html` `Ajax` `CSS` `JavaScript`
 
 ---
 
-### 🌐 Free_item
+### 🤖 Free_item
 📅 **2024.04 ~ 05 (2인 프로젝트)**  
-**여기에 프로젝트 제목**  
-- 프로젝트 설명 1  
-- 프로젝트 설명 2  
-- 프로젝트 설명 3  
+**서울시에 무료 장난감 대여 사이트의 정보를 담은 WEB**  
+- 서울 각 시에서 무료로 대여해주는 장난감의 정보를 한곳에 담음  
+- Python에 Flask 및 bs4 언어를 사용해서 실시간 크롤링 
+- 상품 클릭시 대여 하는 기존 사이트로 이동  
 
-🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/Free_item)  
+🔗 [[프로젝트 링크](https://github.com/dhdhfkk1119/Free_item)]  
 
 🛠 **사용 기술:**  
-`Python` `Django` `PostgreSQL` `AWS`  
-
-[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
+`Python` `Mysql` `Html`  
 
 ---
 
-### 💡 프로젝트 3
+### 🗨️💬 DEU_CHATBOT
 📅 **2023.09 ~ 12 (4인 팀 프로젝트)**  
-**여기에 프로젝트 제목**  
-- 프로젝트 설명 1  
-- 프로젝트 설명 2  
-- 프로젝트 설명 3  
+**동의대학교에 궁금한 것에 대해 답변을 해주는 챗봇**  
+- 초기 화면 자주 묻는 질문 9가지 정보를 제시 클릭시 정보를 제시   
+- 질문지 외에도 질문시 비슷한 답변을 추려내서 정해진 답을 제시  
+- 질문을 이해 못했거나 잘못 된 질문에는 예외 처리 기능
 
-🔗 [프로젝트 링크]([https://your-project-link.com](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy.git))   
+🔗 [[프로젝트 링크](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy.git)]
 
 🛠 **사용 기술:**  
-`Java` `Spring Boot` `MySQL` `Redis`  
-
-[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
+`Python` `HTML` `CSS` `Jupyter`  
 
 ---
 
-### 🎮 프로젝트 4
+### 📚 Web-deubook
 📅 **2022.09 ~ 12 (3인 팀 프로젝트)**  
-**여기에 프로젝트 제목**  
-- 프로젝트 설명 1  
-- 프로젝트 설명 2  
-- 프로젝트 설명 3  
-
-🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/web-deubook.git)
+**동의대학교 중고서점 D-BOOK**  
+- 학교에서 사용하지 않게 된 도서를 등록하고 판매  
+- 기존에 있던 쇼핑몰 사이트와 기능이 유사   
+- 장바구니 및 찜하기 구매 및 판매 기능이 가능
+- 판매자 와 구매자의 실시간 채팅 기능
+  
+🔗 [[프로젝트 링크](https://github.com/dhdhfkk1119/web-deubook.git)]
 
 🛠 **사용 기술:**  
-`C++` `OpenGL` `Vulkan` `Unreal Engine`  
-
-[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
-
-
+`PHP` `CSS` `SCSS` `JavaScript`  
     
 
 
