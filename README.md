@@ -9,16 +9,107 @@
 
 <h3>자기 소개</h3> 
 
-![download](https://github.com/user-attachments/assets/659a1079-af2e-4a63-9fde-c3921b07a152) 조정우               
-![생년월일](https://github.com/user-attachments/assets/f66f5ec5-793f-43f4-8784-b751c945505a) 99.04.08
-![위치](https://github.com/user-attachments/assets/a1aa4151-c461-4d50-82de-6542c32394f6) 부산시 사하구 <br />
-![전화번호](https://github.com/user-attachments/assets/3297ad70-2f1d-424d-8e44-b5a9bf03e6d5) 010-5207-6426
-![이메일](https://github.com/user-attachments/assets/b689ab6a-b558-4eb0-b644-e2c03f7382e4) whwhwjddn123@gmail.com
-![연필](https://github.com/user-attachments/assets/adda0b32-cfe8-4abb-9507-5908dbfbd5fc) 동의대학교(응용소프트웨어학과)
+> ![download](https://github.com/user-attachments/assets/659a1079-af2e-4a63-9fde-c3921b07a152) 조정우
+> ![생년월일](https://github.com/user-attachments/assets/f66f5ec5-793f-43f4-8784-b751c945505a) 99.04.08
+> ![위치](https://github.com/user-attachments/assets/a1aa4151-c461-4d50-82de-6542c32394f6) 부산시 사하구 <br />
+> ![전화번호](https://github.com/user-attachments/assets/3297ad70-2f1d-424d-8e44-b5a9bf03e6d5) 010-5207-6426
+> ![이메일](https://github.com/user-attachments/assets/b689ab6a-b558-4eb0-b644-e2c03f7382e4) whwhwjddn123@gmail.com
+> ![연필](https://github.com/user-attachments/assets/adda0b32-cfe8-4abb-9507-5908dbfbd5fc) 동의대학교(응용소프트웨어학과)
 
 
 
-<h3>스킬 역량</h3> 
+### 🛠️ Tech Stacks
+
+> #### 🖥 Language
+> <p align="left">
+>  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+></p>
+>
+>#### 🗄 DB
+><p align="left">
+>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+></p>
+>
+>#### 🛠 개발 프로그램
+><p align="left">
+>  <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+></p>
+
+## 🚀 Projects
+
+### 🏆 PHP_WEB 
+📅 **2024.10 ~ 2025.01 (1인 개인 프로젝트)**  
+**개인 개발의 역량을 늘리기 위해 쇼핑몰 사이트 구축**  
+- 기존의 쇼핑몰에서 할 수있는 기능을 최대한 구현   
+- Mysql과PHP를 연동해서 데이터를 저장
+- 받아온 값을 바로 처리하기 위한 Ajax를 사용
+- 방문/조회 수 추적, 좋아요 등의 커뮤니티 기능 개발  
+
+🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/PHP_web.git) 
+
+🛠 **사용 기술:**  
+`PHP` `Mysql` `Html` `Ajax` `CSS` `JavaScript`
+
+---
+
+### 🌐 Free_item
+📅 **2024.04 ~ 05 (2인 프로젝트)**  
+**여기에 프로젝트 제목**  
+- 프로젝트 설명 1  
+- 프로젝트 설명 2  
+- 프로젝트 설명 3  
+
+🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/Free_item)  
+
+🛠 **사용 기술:**  
+`Python` `Django` `PostgreSQL` `AWS`  
+
+[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
+
+---
+
+### 💡 프로젝트 3
+📅 **2023.09 ~ 12 (4인 팀 프로젝트)**  
+**여기에 프로젝트 제목**  
+- 프로젝트 설명 1  
+- 프로젝트 설명 2  
+- 프로젝트 설명 3  
+
+🔗 [프로젝트 링크]([https://your-project-link.com](https://github.com/dhdhfkk1119/DEU_CHATBOT_DeuBuddy.git))   
+
+🛠 **사용 기술:**  
+`Java` `Spring Boot` `MySQL` `Redis`  
+
+[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
+
+---
+
+### 🎮 프로젝트 4
+📅 **2022.09 ~ 12 (3인 팀 프로젝트)**  
+**여기에 프로젝트 제목**  
+- 프로젝트 설명 1  
+- 프로젝트 설명 2  
+- 프로젝트 설명 3  
+
+🔗 [프로젝트 링크] (https://github.com/dhdhfkk1119/web-deubook.git)
+
+🛠 **사용 기술:**  
+`C++` `OpenGL` `Vulkan` `Unreal Engine`  
+
+[![README](https://img.shields.io/badge/📖 README-black?style=for-the-badge)](https://github.com/your-repo-link)
+
+
+    
+
+
 <!--
 **dhdhfkk1119/dhdhfkk1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
