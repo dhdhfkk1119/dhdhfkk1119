@@ -1,13 +1,13 @@
 ## Hi there 👋 여기서 저 조정우에 대한 간단한 소개를 하겠습니다.
 
-<h3>소개 글</h3> 
+<h2 style="text-decoration: none;">👋 소개 글</h2>
 
 > 안녕하세요 저는 99년생 신입 개발자가 되고싶은 조정우 입니다. <br />
 > 저는 고등학생때 부터 웹 프로그래밍 언어인 HTML,CSS,PHP,JavaScript를 사용해서 웹 사이트를 만들어왔으며 <br />
 > 그 이후 4년제 대학교에서 계속 프로그래밍을 공부했습니다.<br />
 > 하지만 아직 일을 해본 경력이 없어서 미숙 할 수있습니다.
 
-## 📌 About Me
+<h2 style="text-decoration: none;">📌 About Me</h2>
 
 ><table>
 >  <tr>
@@ -34,10 +34,9 @@
 
 
 
+<h2 style="text-decoration: none;">🛠️ Tech Stacks</h2>
 
-### 🛠️ Tech Stacks
-
-> #### 🖥 Language
+> ### 🖥 Language
 > <p align="left">
 >  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -48,19 +47,19 @@
 >  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 ></p>
 >
->#### 🗄 DB
+>### 🗄 DB
 ><p align="left">
 >  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 ></p>
 >
->#### 🛠 개발 프로그램
+>### 🛠 개발 프로그램
 ><p align="left">
 >  <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 ></p>
 
-## 🚀 Projects
+<h2 style="text-decoration: none;">🚀 Projects</h2>
 
 ### 🛒 PHP_WEB 
 📅 **2024.10 ~ 2025.01 (1인 개인 프로젝트)**  
