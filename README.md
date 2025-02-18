@@ -7,14 +7,31 @@
 > 그 이후 4년제 대학교에서 계속 프로그래밍을 공부했습니다.<br />
 > 하지만 아직 일을 해본 경력이 없어서 미숙 할 수있습니다.
 
-<h3>자기 소개</h3> 
+## 📌 About Me
 
-> ![download](https://github.com/user-attachments/assets/659a1079-af2e-4a63-9fde-c3921b07a152) 조정우
-> ![생년월일](https://github.com/user-attachments/assets/f66f5ec5-793f-43f4-8784-b751c945505a) 99.04.08
-> ![위치](https://github.com/user-attachments/assets/a1aa4151-c461-4d50-82de-6542c32394f6) 부산시 사하구 <br />
-> ![전화번호](https://github.com/user-attachments/assets/3297ad70-2f1d-424d-8e44-b5a9bf03e6d5) 010-5207-6426
-> ![이메일](https://github.com/user-attachments/assets/b689ab6a-b558-4eb0-b644-e2c03f7382e4) whwhwjddn123@gmail.com
-> ![연필](https://github.com/user-attachments/assets/adda0b32-cfe8-4abb-9507-5908dbfbd5fc) 동의대학교(응용소프트웨어학과)
+><table>
+>  <tr>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/659a1079-af2e-4a63-9fde-c3921b07a152" height="20"> <strong>이름</strong> </td>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/f66f5ec5-793f-43f4-8784-b751c945505a" height="20"> <strong>생년월일</strong> </td>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/a1aa4151-c461-4d50-82de-6542c32394f6" height="20"> <strong>위치</strong> </td>
+>  </tr>
+>  <tr>
+>    <td align="center"> 조정우 </td>
+>    <td align="center"> 99.04.08 </td>
+>    <td align="center"> 부산시 사하구 </td>
+>  </tr>
+>  <tr>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/3297ad70-2f1d-424d-8e44-b5a9bf03e6d5" height="20"> <strong>전화번호</strong> </td>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/b689ab6a-b558-4eb0-b644-e2c03f7382e4" height="20"> <strong>이메일</strong> </td>
+>    <td align="center"> <img src="https://github.com/user-attachments/assets/adda0b32-cfe8-4abb-9507-5908dbfbd5fc" height="20"> <strong>학교</strong> </td>
+>  </tr>
+>  <tr>
+>    <td align="center"> 010-5207-6426 </td>
+>    <td align="center"> whwhwjddn123@gmail.com </td>
+>    <td align="center"> 동의대학교 (응용소프트웨어학과) </td>
+>  </tr>
+></table>
+
 
 
 
