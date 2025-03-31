@@ -61,7 +61,7 @@
 >
 >### 📃 깃허브 웹 사이트 
 ><p align="left">
->  🔗 [[프로젝트 전체 코드](https://dhdhfkk1119.github.io/portfolio.github.io/)]
+>  🔗 [[깃허브로 만든 웹사이트 포트폴리오](https://dhdhfkk1119.github.io/portfolio.github.io/)]
 ></p>
 
 ## 🚀 Projects 
