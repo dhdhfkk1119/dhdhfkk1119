@@ -61,6 +61,22 @@
 
 ## 🚀 Projects 
 
+### 🐶 SPRINGBoot_DOGSHOP 
+📅 **2025.03 ~ 2025.04 (1인 개인 프로젝트)**  
+**개인 개발의 역량을 늘리기 위해 강아지 쇼핑몰 개발**  
+> - 기존의 쇼핑몰에서 할 수있는 기능을 최대한 구현   
+> - Mysql과SpringBoot를 연동해서 데이터를 저장
+> - 받아온 값을 바로 처리하기 위한 JSON를 사용
+> - 방문/조회 수 추적, 좋아요 
+
+🔗 [[프로젝트 전체 코드](https://github.com/dhdhfkk1119/DOGSHOP.git)]
+🔗 [[프로젝트 코드 설명](https://www.notion.so/1afccc56b31e8013b325d0fb88095146?pvs=4)]
+
+🛠 **사용 기술:**  
+`SpringBoot` `Mysql` `Html` `JSON` `CSS` `JavaScript`
+
+ ---
+
 ### 🛒 PHP_WEB 
 📅 **2024.10 ~ 2025.01 (1인 개인 프로젝트)**  
 **개인 개발의 역량을 늘리기 위해 쇼핑몰 사이트 구축**  
