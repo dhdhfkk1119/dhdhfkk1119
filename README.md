@@ -42,7 +42,7 @@
 >  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
->  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 >  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 ></p>
@@ -55,13 +55,19 @@
 >
 >### 🛠 개발 프로그램
 ><p align="left">
->  <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/>
->  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+>  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white"/>
 ></p>
 >
 >### 📃 깃허브 웹 사이트 
 ><p align="left">
 >  🔗 [[깃허브로 만든 웹사이트 포트폴리오](https://dhdhfkk1119.github.io/portfolio.github.io/)]
+></p>
+>
+>### ✅ 🅥🅔🅛🅞🅖 웹 사이트
+><p align="left">
+>  🔗 [[Velog 개인 개발 공부](https://velog.io/@dhdhfkk1119/posts)]
 ></p>
 
 ## 🚀 Projects 
